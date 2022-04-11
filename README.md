@@ -7,6 +7,8 @@ A Copy DOOM wads
 
 Download the .zip file or clone it
 
+or download one by one ( Your Choice )
+
 get "gzdoom" or any source ports of DOOM
 
 A small tip:
