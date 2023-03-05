@@ -1,21 +1,14 @@
 # gzDOOM
 A Copy DOOM wads
 
--------------------------------------------
-               How to use it
--------------------------------------------
+         How to use it
 
-Download the .zip file or clone it
+-clone it or download one by one ( Your Choice )
 
-or download one by one ( Your Choice )
+-get "gzdoom" or any source ports of DOOM
 
-get "gzdoom" or any source ports of DOOM
-
-A small tip:
+-A small tip:
   Use Linux if it dose not work on Windows or Mac OS
-
-------------------------------------
-          Links for ports
-------------------------------------
-
-https://www.zdoom.org/downloads
+  
+          Links for port
+-https://www.zdoom.org/downloads
